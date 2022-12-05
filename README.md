@@ -1,2 +1,2 @@
 # pegelalarm-mapicons
-This repo contains all map icons for pegelalarm / floodalert apps, views and widgets.
+This repo contains all map icons for your custom pegelalarm / floodalert apps, views and widgets.
